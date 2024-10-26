@@ -1,7 +1,7 @@
 # GraphCroc
 This is the repo of our work, GraphCroc: Cross-Correlation Autoencoder for Graph Structural Reconstruction, in NeurIPS(2024).
 
-<img src="figs/framework.png" alt="framework" width="600"/>
+<img src="figs/framework.png" alt="framework"/>
 
 ## 🏖️ Environment
 GraphCroc is developed on [PyG](https://pytorch-geometric.readthedocs.io/en/latest/). Generally, please ensure `PyTorch >= 1.11.0`, `python >= 3.8`, and `pyg >= 2.0.4`. Other depedency might be required as well.
