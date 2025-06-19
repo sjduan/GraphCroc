@@ -25,8 +25,3 @@ Current GraphCroc repo is hard coded, and a more structural one is growing.
 2. Main file for training GraphCroc: `cd IMDB_B; python3 reconstructor.py`
 3. WL-test: `python3 wl_test.py`
 4. Graph classification task (100-epoch sample): `python3 gc_train.py`
-
-## 🚧 Things under Construction
-- [ ] More Constructive Repo
-- [ ] Other Evaluated Tasks
-- [ ] Auxiliary Scripts for Graph Visualization
